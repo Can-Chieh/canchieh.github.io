@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[Let's Google !](https://www.google.com.tw/)
 
 You can use the [editor on GitHub](https://github.com/Can-Chieh/canchieh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
