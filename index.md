@@ -8,7 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### How to do it?
 why I can't put it on the website?
-
+`code`
+int i 
+for i = 0; i<10; i++
+end
+``
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
