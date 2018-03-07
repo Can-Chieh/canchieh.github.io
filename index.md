@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### How to do it?
 why I can't put it on the website?
 `
-int i 
+int i //
 for i = 0; i<10; i++
 end
 `
